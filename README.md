@@ -64,6 +64,6 @@ This is a demonstration project. In a real-world application, actual audio analy
 - Add visualization of audio waveforms
 - Include mood history tracking
 
-## Author
+## Author - Shrey Salunke 
 
 Created as a college mini-project. 
